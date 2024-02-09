@@ -61,8 +61,5 @@ const superHappyFuntime = () => {
 };
 
 setTimeout(() => {
-    if (window.super_happy_funtime === false) {
-        superHappyFuntime();
-        window.super_happy_funtime = true;
-    }
+    superHappyFuntime();
 }, 5000);
