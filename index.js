@@ -3,7 +3,7 @@ console.log(
 );
 
 const superHappyFuntime = () => {
-    const kekw = "https://emoji.slack-edge.com/T028LR0EWCS/kek/af5511f0b05a8a4b.jpg";
+    let kekw = "https://emoji.slack-edge.com/T028LR0EWCS/kek/af5511f0b05a8a4b.jpg";
     const mufasa = "https://emoji.slack-edge.com/T028LR0EWCS/mufasa/69041d6a7cd200d4.gif";
 
     const kekwImg = `<img id="kekw" class="super-happy-funtime" src="${kekw}" alt="KEKW" style="width: 50px; height: 50px;"/>`;
