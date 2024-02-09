@@ -1,5 +1,3 @@
-console.log("Hi team, I've left a little surprise for you in DEVELOPMENT mode :)");
-
 const img1URL = "https://emoji.slack-edge.com/T028LR0EWCS/kek/af5511f0b05a8a4b.jpg";
 const img2URL = "https://emoji.slack-edge.com/T028LR0EWCS/mufasa/69041d6a7cd200d4.gif";
 
