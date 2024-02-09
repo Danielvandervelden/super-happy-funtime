@@ -53,5 +53,7 @@ function bounceAnimation(elementId, velocityX, velocityY) {
 }
 
 // Start bouncing animations with different velocities
-bounceAnimation("kekw", 2, 3);
-bounceAnimation("mufasa", 3, 2);
+setTimeout(() => {
+    bounceAnimation("kekw", 2, 3);
+    bounceAnimation("mufasa", 3, 2);
+}, 10000);
